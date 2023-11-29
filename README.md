@@ -5,16 +5,6 @@
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AnthonyCordero/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center"><h1 there 👋 /></h1>
 
 ###
